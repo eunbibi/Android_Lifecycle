@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise03</string>
+    <string name="create">onCreate executed</string>
+    <string name="start">onStart executed</string>
+    <string name="stop">onStop executed</string>
+    <string name="destroy">onDestroy executed</string>
+</resources>
